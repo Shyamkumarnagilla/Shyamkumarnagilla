@@ -119,5 +119,5 @@ I am eager to work with innovative teams, learn industry best practices, and bui
 
 📄 **Resume:**  
 - [View on Google Drive](https://drive.google.com/file/d/1On1kW3SiGyQLU5NAqZ6iVeJf5BMI5yG6/view?usp=sharing)  
-- [Download from GitHub](ShyamKumar_Nagilla_resume.pdf)
+
 
