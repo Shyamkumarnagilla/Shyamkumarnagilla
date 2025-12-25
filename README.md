@@ -61,42 +61,43 @@ I am actively seeking **entry-level opportunities in Software Development, Full-
 ### 📰 Newsly – Real-Time News Application
 A responsive React-based news application that fetches real-time headlines, categories, and search results using the NewsData.io API.  
 **Tech Stack:** React.js · CSS · API Integration  
-🔗 *Visit Project*
+🔗 [Visit Project](https://github.com/Shyamkumarnagilla/News-APP)
 
 ---
 
 ### 🌫️ ClearView: Interactive Air Quality Insights
 An interactive dashboard to visualize air quality trends and make pollution data easy to explore and understand.  
 **Tech Stack:** Python · Power BI · Streamlit  
-🔗 *Visit Project*
+🔗 [Visit Project](https://github.com/Shyamkumarnagilla/ClearView-Interactive-Air-Quality-Insights)
 
 ---
 
 ### ☁️ CloudCast – Weather App
 A responsive web application for real-time weather tracking using the OpenWeatherMap API with smooth performance across devices.  
 **Tech Stack:** HTML · CSS · JavaScript  
-🔗 *Visit Project*
+🔗 [Visit Project](https://github.com/Shyamkumarnagilla/CloudCast)
 
 ---
 
 ### 🚗 MotoCarz – Car & Bike Rental App
 A responsive rental platform with an intuitive UI for seamless browsing and booking of cars and bikes across all devices.  
 **Tech Stack:** HTML · CSS · JavaScript  
-🔗 *Visit Project*
+🔗 [Visit Project](https://github.com/Shyamkumarnagilla/MotoCarz)
 
 ---
 
 ### 🌾 AI Powered Forecasting for Agricultural Productivity
 A web platform for crop yield prediction using real-time and historical data to support informed and sustainable farming decisions.  
 **Tech Stack:** HTML · Python  
-🔗 *Visit Project*
+🔗 [Visit Project](https://github.com/Shyamkumarnagilla/AI-Powered-Forecasting-for-Agricultural-Productivity)
 
 ---
 
 ### 🎓 College Club Management System
 A full-stack system designed to manage clubs, events, student memberships, and announcements efficiently.  
 **Tech Stack:** Java · MySQL  
-🔗 *Visit Project*
+🔗 [Visit Project](https://github.com/Shyamkumarnagilla/College-Club-Managemnent-System)
+
 
 ---
 
