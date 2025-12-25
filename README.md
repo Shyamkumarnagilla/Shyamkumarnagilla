@@ -12,11 +12,11 @@ Actively seeking a challenging **entry-level software development role** where I
 
 | **Category**       | **Technologies**                                                                                               |
 | :----------------- | :------------------------------------------------------------------------------------------------------------- |
-| **Languages**      | `Java` `Python` `JavaScript (ES6+)` `SQL` `HTML5` `CSS3`                                                       |
+| **Languages**      | `Java` `Python` `JavaScript` `SQL` `HTML5` `CSS3`                                                       |
 | **Frontend**       | `React` `Responsive Design`                                                                                    |
 | **Backend & Data** | `MySQL` `Streamlit` `REST API Integration`                                                                     |
 | **Tools & Platforms** | `Git & GitHub` `Power BI`                                                                                    |
-| **Concepts**       | Object-Oriented Programming (OOP), Data Structures, Data Visualization, Manual Testing                         |
+| **Concepts**       | Object-Oriented Programming (OOP), Data Structures, Data Visualization                         |
 
 ---
 
@@ -26,7 +26,6 @@ Actively seeking a challenging **entry-level software development role** where I
 **Kodnest Technologies** | *May 2025 – Present*  
 - Gaining hands-on experience in **Java, MySQL, and Frontend Development**, contributing to real-world projects.
 - Collaborating with mentors and peers to build industry-ready software solutions following best practices.
-- Performing **manual testing** to ensure application quality and functionality.
 
 ### 📊 Data Visualization Intern  
 **Infosys Springboard** *(Remote)* | *Dec 2024 – Feb 2025*  
@@ -39,10 +38,6 @@ Actively seeking a challenging **entry-level software development role** where I
 *Affiliated with Jawaharlal Nehru Technological University Hyderabad (JNTUH)* | *2021 – 2025*  
 - **CGPA:** 7.72/10.0  
 - **Relevant Coursework:** Data Structures & Algorithms, Database Management Systems, Web Technologies, Machine Learning.
-
-### 🏫 Intermediate (XII – MPC)  
-**Narayana Junior College, Hyderabad** | *2021*  
-- **Percentage:** 96%
 
 ---
 
