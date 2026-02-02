@@ -41,52 +41,6 @@ Actively seeking a challenging **entry-level software development role** where I
 
 ---
 
-## 🚀 Featured Projects
-
-### 📰 Newsly – Real-Time News Application
-A responsive **React-based** application that aggregates and displays real-time news from various categories using the **NewsData.io API**.
-- **Features:** Fetches live headlines, supports category-based filtering, and includes a robust search functionality.
-- **Tech Stack:** `React.js` `CSS` `REST API`
-- **Key Achievement:** Built a performant single-page application (SPA) with efficient state management for a seamless user experience.
-- 🔗 **[View on GitHub](https://github.com/Shyamkumarnagilla/News-APP)**
-
-### 🌫️ ClearView: Interactive Air Quality Insights
-An interactive **data visualization dashboard** to explore air quality trends, providing actionable insights from complex pollution data.
-- **Features:** Interactive charts, historical trend analysis, and a clean, informative layout built with **Streamlit** and **Power BI**.
-- **Tech Stack:** `Python` `Streamlit` `Power BI` `Pandas`
-- **Key Achievement:** Successfully processed and visualized datasets to deliver **95% accurate insights**, praised for UI clarity.
-- 🔗 **[View on GitHub](https://github.com/Shyamkumarnagilla/ClearView-Interactive-Air-Quality-Insights)**
-
-### ⚙️ College Club Management System
-A **full-stack web application** designed to streamline the administration of college clubs, events, memberships, and announcements.
-- **Features:** User authentication, event scheduling, member management, and a centralized announcement board.
-- **Tech Stack:** `Java` `MySQL` `JDBC` `Servlets` (Tech implied by description)
-- **Key Achievement:** Architected a relational database schema and implemented core CRUD operations, demonstrating end-to-end system design.
-- 🔗 **[View on GitHub](https://github.com/Shyamkumarnagilla/College-Club-Managemnent-System)**
-
-### ☁️ CloudCast – Weather App
-A responsive weather application that provides real-time forecasts and conditions for any city using the **OpenWeatherMap API**.
-- **Features:** Location-based weather search, dynamic weather icons, and a fully responsive design for all devices.
-- **Tech Stack:** `HTML5` `CSS3` `JavaScript` `REST API`
-- **Key Achievement:** Created a lightweight, fast-performing app focused on core frontend development skills and clean API integration.
-- 🔗 **[View on GitHub](https://github.com/Shyamkumarnagilla/CloudCast)**
-
-### 🚗 MotoCarz – Car & Bike Rental Platform
-A front-end focused **responsive web platform** showcasing vehicles for rent with an intuitive booking interface.
-- **Features:** Vehicle filtering, detailed listings, and a simulated booking flow designed for a great user experience.
-- **Tech Stack:** `HTML5` `CSS3` `JavaScript`
-- **Key Achievement:** Emphasized **mobile-first responsive design** and crafted a polished, visually consistent UI.
-- 🔗 **[View on GitHub](https://github.com/Shyamkumarnagilla/MotoCarz)**
-
-### 🌾 AI-Powered Forecasting for Agricultural Productivity
-A **web-based analytical tool** that utilizes machine learning models to predict crop yields, aiding data-driven farming decisions.
-- **Features:** Input forms for agricultural parameters, integration with a predictive model, and results visualization.
-- **Tech Stack:** `Python` `HTML` (Framework implied, e.g., Flask)
-- **Key Achievement:** Bridged the gap between a machine learning model and a usable web interface, tackling a real-world problem.
-- 🔗 **[View on GitHub](https://github.com/Shyamkumarnagilla/AI-Powered-Forecasting-for-Agricultural-Productivity)**
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to discussing technology, opportunities, or potential collaborations.
@@ -96,7 +50,7 @@ I'm always open to discussing technology, opportunities, or potential collaborat
 [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shyamkumarnagilla)
 
 📄 **View my detailed resume:**  
-[![Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1On1kW3SiGyQLU5NAqZ6iVeJf5BMI5yG6/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1fXDdhye-U-hBIhsZgtU8Xm6A7weTuKol/view?usp=sharing)
 
 ---
 *Thank you for visiting my profile!*
