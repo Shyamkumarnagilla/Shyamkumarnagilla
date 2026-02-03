@@ -44,5 +44,4 @@ I’m a software engineer focused on building modern web applications across fro
 </a>
 </p>
 
-##
 *Always building. Always learning. Always open to collaborate*
