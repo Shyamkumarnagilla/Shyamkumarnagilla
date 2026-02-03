@@ -1,56 +1,48 @@
-# 👨‍💻 About Me
+# Hi there, I'm Shyam Kumar Nagilla 👋
 
-I am a passionate and driven **Computer Science & Engineering (Data Science) graduate** with a strong foundation in full-stack development and a keen eye for crafting intuitive user experiences. My expertise spans both frontend technologies like React and modern JavaScript, and backend systems built with Java and SQL. I thrive on transforming complex problems into clean, efficient, and scalable software solutions. 
+I’m a software engineer focused on building modern web applications across frontend and backend. I enjoy developing scalable APIs, clean user experiences, and reliable software systems.
 
-**✨ Unique Approach:** I bridge the gap between data and design, leveraging my data science background to build web applications that are not only functional and beautiful but also **driven by actionable insights**.
+📌 Currently open to Software Engineer / Full Stack Developer opportunities and excited to collaborate on impactful projects 🚀
 
-Actively seeking a challenging **entry-level software development role** where I can contribute innovative ideas, collaborate within a dynamic team, and accelerate my growth as a professional engineer.
+##
 
----
+## ⚡ Technologies
 
-## 🛠️ Technical Skills
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" title="Java" alt="Java" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" title="Python" alt="Python" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45" title="SQL" alt="SQL" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" title="Spring Boot" alt="Spring Boot" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" title="HTML5" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" title="CSS3" alt="CSS3" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" title="React" alt="React" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" title="REST APIs / Postman" alt="Postman" />
+</p>
 
-| **Category**       | **Technologies**                                                                                               |
-| :----------------- | :------------------------------------------------------------------------------------------------------------- |
-| **Languages**      | `Java` `Python` `JavaScript` `SQL` `HTML5` `CSS3`                                                       |
-| **Frontend**       | `React` `Responsive Design`                                                                                    |
-| **Backend & Data** | `MySQL` `Streamlit` `REST API Integration`                                                                     |
-| **Tools & Platforms** | `Git & GitHub` `Power BI`                                                                                    |
-| **Concepts**       | Object-Oriented Programming (OOP), Data Structures, Data Visualization                         |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL" alt="MySQL" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" title="Git" alt="Git" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" title="GitHub" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code" alt="VS Code" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" title="Docker" alt="Docker" />
+</p>
 
----
+##
 
-## 🎓 Experience & Education
+### 🤝 Let's Connect!
 
-### 🧑‍💻 Software Development Intern  
-**Kodnest Technologies** | *May 2025 – Present*  
-- Gaining hands-on experience in **Java, MySQL, and Frontend Development**, contributing to real-world projects.
-- Collaborating with mentors and peers to build industry-ready software solutions following best practices.
+<p align="left">
+<a href="https://github.com/ShyamkumarNagilla" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/nagilla-shyam/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:nagillashyamkumar7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
-### 📊 Data Visualization Intern  
-**Infosys Springboard** *(Remote)* | *Dec 2024 – Feb 2025*  
-- Designed and developed a dynamic **Air Quality Index (AQI) visualization platform** using **Python, Streamlit, and Power BI**.
-- Engineered data pipelines to deliver **95% accurate insights** with seamless, real-time dashboard integration.
-- Received positive feedback from peers and mentors for creating an **intuitive UI** that improved data clarity and user engagement.
-
-### 🎓 B.Tech – Computer Science & Engineering (Data Science)  
-**Brilliant Grammar School Educational Society’s Group of Institutions, Hyderabad**  
-*Affiliated with Jawaharlal Nehru Technological University Hyderabad (JNTUH)* | *2021 – 2025*  
-- **CGPA:** 7.72/10.0  
-- **Relevant Coursework:** Data Structures & Algorithms, Database Management Systems, Web Technologies, Machine Learning.
-
----
-
-## 📫 Let's Connect
-
-I'm always open to discussing technology, opportunities, or potential collaborations.
-
-[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://shyamkumarnagilla.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagilla-shyam/)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shyamkumarnagilla)
-
-📄 **View my detailed resume:**  
-[![Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1fXDdhye-U-hBIhsZgtU8Xm6A7weTuKol/view?usp=sharing)
-
----
-*Thank you for visiting my profile!*
+##
+*Always building. Always learning. Always open to collaborate*
